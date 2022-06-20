@@ -9,8 +9,8 @@
 /* Begin PBXBuildFile section */
 		7A2471B52861018A0009BF07 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 7A2471B42861018A0009BF07 /* .gitignore */; };
 		7A2471B7286101CB0009BF07 /* .gitattributes in Resources */ = {isa = PBXBuildFile; fileRef = 7A2471B6286101CB0009BF07 /* .gitattributes */; };
-		7A2471BB286102E00009BF07 /* p2f2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A2471BA286102E00009BF07 /* p2f2.swift */; };
 		7A2471B92861028A0009BF07 /* p1f1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A2471B82861028A0009BF07 /* p1f1.swift */; };
+		7A2471BB286102E00009BF07 /* p2f2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A2471BA286102E00009BF07 /* p2f2.swift */; };
 		7AB309742861015000B6884A /* MergeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AB309732861015000B6884A /* MergeApp.swift */; };
 		7AB309762861015000B6884A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AB309752861015000B6884A /* ContentView.swift */; };
 		7AB309782861015100B6884A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7AB309772861015100B6884A /* Assets.xcassets */; };
@@ -40,8 +40,8 @@
 /* Begin PBXFileReference section */
 		7A2471B42861018A0009BF07 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		7A2471B6286101CB0009BF07 /* .gitattributes */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitattributes; sourceTree = "<group>"; };
-		7A2471BA286102E00009BF07 /* p2f2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p2f2.swift; sourceTree = "<group>"; };
 		7A2471B82861028A0009BF07 /* p1f1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p1f1.swift; sourceTree = "<group>"; };
+		7A2471BA286102E00009BF07 /* p2f2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p2f2.swift; sourceTree = "<group>"; };
 		7AB309702861015000B6884A /* Merge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Merge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AB309732861015000B6884A /* MergeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeApp.swift; sourceTree = "<group>"; };
 		7AB309752861015000B6884A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -107,9 +107,9 @@
 				7AB309732861015000B6884A /* MergeApp.swift */,
 				7AB309752861015000B6884A /* ContentView.swift */,
 				7A2471B82861028A0009BF07 /* p1f1.swift */,
+				7A2471BA286102E00009BF07 /* p2f2.swift */,
 				7AB309772861015100B6884A /* Assets.xcassets */,
 				7AB309792861015100B6884A /* Preview Content */,
-				7A2471BA286102E00009BF07 /* p2f2.swift */,
 			);
 			path = Merge;
 			sourceTree = "<group>";
